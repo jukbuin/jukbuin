@@ -1,6 +1,9 @@
-![Yeeun's Github stats](https://github-readme-stats.vercel.app/api?username=jukbuin&include_all_commits=true&show_icons=true&them=radical&count_private=true)
+# ⌨️ *Stats*
 
-# ⚒️Skills
+![Yeeun's Github stats](https://github-readme-stats.vercel.app/api?username=jukbuin&include_all_commits=true&show_icons=true&them=radical&count_private=true)
+<br><br><br><br>
+        
+# ⚒️ *Skills*
 
 <!--
 **jukbuin/jukbuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
