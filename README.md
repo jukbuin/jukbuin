@@ -1,3 +1,5 @@
+![Yeeun's Github stats](https://github-readme-stats.vercel.app/api?username=jukbuin&include_all_commits=true&show_icons=true&them=radical&count_private=true)
+
 # ⚒️Skills
 
 <!--
