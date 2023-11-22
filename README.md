@@ -26,7 +26,7 @@
   - 사용언어(프론드엔드) : HTML, CSS, Javascript, jQuery, Ajax, Tymeleaf
   - 사용언어(백엔드) : JAVA, Gradle, Lombok, SpringBoot, JPA, Hibernate, OracleDB 
   - 개발 기간 : 2023.09.18 ~ 2023.09.18
-    <br>
+    <br></br>
   - 핵심 기술
     - HTML, CSS, Javascript를 이용한 웹 홈페이지 제작
     - javaMailSenderImpl를 이용한 이메일 인증을 통해 아이디/비밀번호 찾기
