@@ -44,6 +44,21 @@
   <br>
   
   <b> 🙍‍♀️ Personal Project </b> 
+
+   <details>
+  <summary><b>유기동물보호 사이트 AWT화면구현</b></summary>
+  <div markdown="1"> <br>
+  <img src="https://github.com/jukbuin/jukbuin/assets/131740090/d8f4cffa-05d1-48bf-84a9-fd0994f71511.jpg" /><br></br>
+
+  - 개발환경 : Window 10 Home, DBeaver 23.0.5, Eclipse version 2023-03, Java 11.0.19, oracle 21c Express Edition, GitHub, Figma
+  - 사용언어(프론드엔드) : HTML, CSS
+  - 사용언어(백엔드) : JAVA, Maven, Apache Tomcat, OracleDB 
+  - 개발 기간 : 2023.06.13 ~ 2023.07.04
+    <br></br>
+  - 핵심 기술
+    - OracleDB를 이용한 로그인 및 회원, 데이터 관리
+  </div>
+  </details>
 <!--
 **jukbuin/jukbuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
