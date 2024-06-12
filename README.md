@@ -43,7 +43,7 @@
   
   <br>
 
-  <b> 🙍‍♀️ Personal Project </b> 
+  <b> 🙍‍♀️ Personal Project ([먹킷리스트](http://mukkitlist-env-1.eba-eibqczsi.ap-northeast-2.elasticbeanstalk.com)) </b> 
 
    <details>
   <summary><b>맛집추천 커뮤니티 웹 사이트</b></summary>
