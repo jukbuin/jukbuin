@@ -9,7 +9,7 @@
 | --- | --- |
 | **Language** | <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a> |
 | **DB** | <img src="https://img.shields.io/badge/Oracle-E34F26?style=for-the-badge&logo=Oracle&logoColor=white"/></a> <img src="https://img.shields.io/badge/MySQL-01579b?style=for-the-badge&logo=mysql&logoColor=white"/></a> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a> |
-| **Other** | <img src="https://img.shields.io/badge/Node.js-9FC93C?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a> <img src="https://img.shields.io/badge/Express-A9A9A9?style=for-the-badge&logo=express&logoColor=white"/></a> <img src="https://img.shields.io/badge/SpringBoot-90EE90?style=for-the-badge&logo=springboot&logoColor=black"/></a> <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/></a> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a> <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/></a> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a> |
+| **Other** | <img src="https://img.shields.io/badge/Node.js-9FC93C?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a> <img src="https://img.shields.io/badge/Express-A9A9A9?style=for-the-badge&logo=express&logoColor=white"/></a> <img src="https://img.shields.io/badge/SpringBoot-90EE90?style=for-the-badge&logo=springboot&logoColor=black"/></a> <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/></a> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a> <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/></a> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a> <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> |
 | **Tool** | <img src="https://img.shields.io/badge/Visual Studio-52AAE9?style=for-the-badge&logo=visual Studio&logoColor=white"/></a> <img src="https://img.shields.io/badge/Eclipse-3F3958?style=for-the-badge&logo=Eclipse&logoColor=white"/></a> <img src="https://img.shields.io/badge/intellijidea-EF96B6?style=for-the-badge&logo=intellijidea&logoColor=white"/></a> <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/></a> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/></a> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a> |
 
 <br><br>
@@ -40,7 +40,31 @@
     - 모임 가입, 탙퇴하기(session활용)
   </div>
   </details>
-  
+
+  <br>
+
+  <b> 🙍‍♀️ Personal Project ([Pixi](https://pixi-psi.vercel.app/)) </b> 
+
+   <details>
+  <summary><b>나만의 작은 컴퓨터로 ToDoList와 ChatGPT를 활용한 챗봇으로 이루어진 웹사이트</b></summary>
+  <div markdown="1"> <br>
+  <img src="https://github.com/user-attachments/assets/baaae369-ef5e-45ed-a20f-b636edbb9b16" /><br></br>
+
+  - 개발환경 : Window 11 Home, IntelliJ IDEA 2023.2, Nextjs, MongoDB, Vercel, GitHub, Figma
+  - 사용언어(프론드엔드) : JavaScript, React, CSS, Ajax
+  - 사용언어(백엔드) : JavaScript 
+  - 개발 기간 : 2024.06.15 ~ 2024.07.18
+    <br></br>
+  - 핵심 기술
+    - React, CSS, Javascript를 이용한 웹 홈페이지 제작
+    - Vercel을 활용한 배포 및 호스팅 
+    - Next-auth, GoogleAPI를 활용한 소셜로그인
+    - 회원정보, ToDoList를 저장하는 MongoDB 기반의 DB 설계 및 구축
+    - OpenWeather API를 활용한 사용자 위치기반 날씨정보 확인
+    - ChatGPT API를 활용한 챗봇 기능
+  </div>
+  </details>
+
   <br>
 
   <b> 🙍‍♀️ Personal Project ([먹킷리스트](http://mukkitlist-env-1.eba-eibqczsi.ap-northeast-2.elasticbeanstalk.com)) </b> 
@@ -95,3 +119,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
